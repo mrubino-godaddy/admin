@@ -2,7 +2,7 @@ repository:
   name: test
   gitignore_template: go
   description: test repo
-  homepage: https://example.github.io/test/info
+  homepage: https://example.github.io/test
   private: false
   visibility: public
   has_issues: false
