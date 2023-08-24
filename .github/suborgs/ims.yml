@@ -1,5 +1,6 @@
 suborgrepos:
   - ims-diagrams
+  - test
 repository:
   allow_squash_merge: true
   allow_merge_commit: false

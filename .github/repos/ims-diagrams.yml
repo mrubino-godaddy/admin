@@ -4,7 +4,7 @@ repository:
   auto_init: true
   description: set of IMS diagrams (MMD)
   homepage: https://example.github.io/
-  private: false
+  private: true
   visibility: private
   topics:
     - diagrams
