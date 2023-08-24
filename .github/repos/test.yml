@@ -3,7 +3,7 @@ repository:
   force_create: true
   auto_init: true
   description: test repo
-  homepage: https://example.github.io/
+  homepage: https://example.github.io/test
   private: false
   visibility: public
   topics:
