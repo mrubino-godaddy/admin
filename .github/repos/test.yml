@@ -24,7 +24,7 @@ branches:
         strict: true
         contexts: []
       enforce_admins: true
-#      restrictions:
-#        apps: []
+      restrictions:
+        apps: []
 #        users: []
 #        teams: []
