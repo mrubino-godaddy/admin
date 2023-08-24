@@ -1,0 +1,8 @@
+repository:
+  name: ims-diagrams
+  force_create: true
+  auto_init: true
+  description: set of IMS diagrams (MMD)
+  homepage: https://example.github.io/
+  topics:
+    - ims
