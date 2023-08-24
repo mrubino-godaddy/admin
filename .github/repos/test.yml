@@ -9,8 +9,7 @@ repository:
   has_projects: false
   has_wiki: false
 branches:
-  # applies to branch specified as `default_branch`
-  - name: default
+  - name: default # applies to branch specified as `default_branch`
     protection:
       required_pull_request_reviews:
         required_approving_review_count: 1
