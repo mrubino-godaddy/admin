@@ -5,21 +5,16 @@ repository:
   description: set of IMS diagrams (MMD)
   homepage: https://example.github.io/
   topics:
-    - ims
     - diagrams
   has_issues: false
   has_projects: false
   has_wiki: false
-  allow_squash_merge: true
-  allow_merge_commit: false
-  allow_rebase_merge: false
-  default_branch: main
-branches:
-  # applies to branch specified as `default_branch`
-  - name: default
-    protection:
-      required_pull_request_reviews:
-        required_approving_review_count: 1
+#branches:
+#  # applies to branch specified as `default_branch`
+#  - name: default
+#    protection:
+#      required_pull_request_reviews:
+#        required_approving_review_count: 1
 #        dismiss_stale_reviews: true
 #        require_code_owner_reviews: true
 #        require_last_push_approval: true
