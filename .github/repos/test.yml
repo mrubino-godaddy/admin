@@ -1,7 +1,6 @@
 repository:
   name: test
-  force_create: true
-  auto_init: true
+  gitignore_template: go
   description: test repo
   homepage: https://example.github.io/test/info
   private: false
