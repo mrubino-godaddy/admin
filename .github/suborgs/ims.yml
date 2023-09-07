@@ -11,4 +11,5 @@ repository:
   delete_branch_on_merge: false
   default_branch: main
   topics:
-    - ims new-label
+    - ims
+    - new-lable
