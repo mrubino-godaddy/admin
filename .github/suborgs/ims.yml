@@ -12,3 +12,4 @@ repository:
   default_branch: main
   topics:
     - ims
+    - new-label
